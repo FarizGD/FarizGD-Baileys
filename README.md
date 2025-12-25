@@ -1,7 +1,11 @@
-## Modified Whatsapp-API
+## FarizGD-Baileys
+# Modified Whatsapp-API
+---
 <p align='center'>
   <img src="https://farizgd-api.vercel.app/random/yuuka">
 </p>
+
+(btw gambar diatas kalo kalian refresh website ini, gambarnya bakal berubah)
 
 --- 
 
